@@ -135,7 +135,7 @@ Para penulis berterima kasih kepada Bapak Dr. Eng. Supri Bin Hj. Amir, S.Si., M.
 3. Y. Christian and Herman, ["Rental Price Prediction of Boarding Houses in Batam City Using Linear Regression and Random Forest Algorithms,"](https://jurnal.polibatam.ac.id/index.php/JAIC/article/view/6732) *Journal of Applied Informatics and Computing (JAIC)*, vol. 7. no. 2, pp. 263-270, 2023.
 4. E. Fitri, ["Analisis Perbandingan Metode Regresi Linier, Random Forest Regression dan Gradient Boosted Trees Regression Method untuk Prediksi Harga Rumah,"](https://journal.isas.or.id/index.php/JACOST/article/view/491) *Journal of Applied Computer Science and Technology (JACOST)*, vol. 4, no. 1, pp. 58-64, 2023.
 5. B. Wisnuadhi and I. Setiawan, ["Rekomendasi Fitur yang Mempengaruhi Harga Sewa Menggunakan Pendekatan Machine Learning."](https://jtiik.ub.ac.id/index.php/jtiik/article/view/3305) *Jurnal Teknologi Informasi dan Ilmu Komputer (JTIIK)*, vol. 8, no. 4, pp. 673-682, 2021.
-6. K.-W. Lee, S. N. Njimbouom, and J.-D. Kim, ["Development of Rent House Price Prediction Service based on Machine Learning,"](http://journal.dcs.or.kr/_common/do.php?a=full&b=12&bidx=3170&aidx=35373) *Journal of Digital Contents Society*, vol. 23, no. 12, pp. 2445-2455, 2022.
+6. K.-W. Lee, S. N. Njimbouom, and J.-D. Kim, "Development of Rent House Price Prediction Service based on Machine Learning,"*Journal of Digital Contents Society*, vol. 23, no. 12, pp. 2445-2455, 2022.
 
 ## 7. Link Eksternal
 * Repository github : [Klik disini](https://github.com/muhamadtegar1/Kostimator)
