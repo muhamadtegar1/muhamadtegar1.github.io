@@ -1,6 +1,6 @@
 ---
 title: Machine Learning Project
-date: 2025-06-26
+date: 2024-06-26
 categories: [Machine Learning]
 tags: [Regression, Algorithm, project]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introducing"
-date: 2025-03-11 10:00:00 +0700
+date: 2024-03-11 
 categories: [Personal]
 tags: [blog, me]
 ---
