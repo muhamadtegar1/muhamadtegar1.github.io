@@ -1,6 +1,6 @@
 ---
 title: "Catatan Akhir Semester 4"
-date: 2024-06-26 
+date: 2025-06-26 
 categories: [Personal]
 tags: [blog, me]
 ---

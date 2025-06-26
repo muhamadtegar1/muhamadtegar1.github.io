@@ -1,6 +1,6 @@
 ---
 title: Data Mining Project
-date: 2024-06-24
+date: 2025-06-24
 categories: [Data Mining]
 tags: [Regression, Algorithm, project]
 ---
